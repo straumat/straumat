@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Stéphane 👋
 
 #### :seedling: Working on
 
@@ -17,7 +17,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp; 
 </div>  
 
-
 #### :technologist:	Bio
 - :briefcase: Cofounder of [Oak Invest](https://www.oak-invest.com), an investment company where I have the following roles:
   - Director of [Scub](https://scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile technologies and Blockchain.
@@ -27,27 +26,9 @@
 - :notebook_with_decorative_cover:I have also written a book on the J2EE application server JOnAS.
 
 #### :envelope: How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-stephane.traumat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stephane.traumat@gmail.com)](mailto:stephane.traumat@gmail.com)
-
-#### Social networks
-[![Twitter Badge](https://img.shields.io/badge/-@straumat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/straumat)](https://twitter.com/straumat)
+[![Gmail Badge](https://img.shields.io/badge/-stephane.traumat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stephane.traumat@gmail.com)](mailto:stephane.traumat@gmail.com) or [![Twitter Badge](https://img.shields.io/badge/-@straumat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/straumat)](https://twitter.com/straumat)
 [![Linkedin Badge](https://img.shields.io/badge/-straumat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/straumat/)
 
-#### Stats
-![Straumat's github stats](https://github-readme-stats.vercel.app/api?username=straumat&show_icons=true)
+#### :fire: Stats
+![Straumat's github stats](https://github-readme-stats.vercel.app/api?username=straumat&show_icons=true&count_private=true)
 
-
-<!--
-**straumat/straumat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
