@@ -29,6 +29,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-stephane.traumat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stephane.traumat@gmail.com)](mailto:stephane.traumat@gmail.com) or [![Twitter Badge](https://img.shields.io/badge/-@straumat-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/straumat)](https://twitter.com/straumat)
 [![Linkedin Badge](https://img.shields.io/badge/-straumat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/straumat/)
 
-#### :fire: Stats
-![Straumat's github stats](https://github-readme-stats.vercel.app/api?username=straumat&show_icons=true&count_private=true)
-
