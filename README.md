@@ -2,7 +2,7 @@
 
 #### :technologist:	Bio
 - :briefcase: Cofounder of [Oak Invest](https://www.oak-invest.com), an investment company where I have the following roles:
-  - Director of [Scub](https://scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile technologies and Blockchain.
+  - Director of [Scub](https://scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile and Blockchain.
   - Director of [SPS Solutions](https://sps-solutions.fr), a software company that provides a CRM solution for the insurance industry.
   - Director of [Aldan finance](https://aldan.finance/), a software company that helps your borrow money from banks thanks to your crypto assets.
   - Associate of [Agence 42](https://www.agence42.fr), a web agency.
