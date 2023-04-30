@@ -11,7 +11,7 @@
 
 #### :seedling: Working on
 
-- :desert_island: [Royllo](https://github.com/royllo), my brand new project, learning [Taro](https://lightning.engineering/posts/2022-4-5-taro-launch/) and building a Taro Universe Explorer.
+- :desert_island: [Royllo](https://github.com/royllo), my brand new project, learning [Taro](https://lightning.engineering/posts/2022-4-5-taro-launch/) and building a Taro Universe Explorer. ![Cassandre Badge](https://img.shields.io/github/stars/royllo/explorer?style=social)
 - :coin: [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot), a trading bot framework to create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies. ![Cassandre Badge](https://img.shields.io/github/stars/cassandre-tech/cassandre-trading-bot?style=social)
 - :microscope: [Blockchain2graph](https://github.com/straumat/blockchain2graph) extracts blockchain data (bitcoin) and insert them into a graph database. ![Blockchain2graph Badge](https://img.shields.io/github/stars/straumat/blockchain2graph?style=social)
 - :notebook: [My second brain](https://straumat.github.io/second-cerveau/) where I try to organize in FRENCH all my notes, ideas and projects !
