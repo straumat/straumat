@@ -32,8 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="40" height="40" />
-</div>  
-
-#### :envelope: How to reach me
-[![Gmail Badge](https://img.shields.io/badge/-stephane.traumat@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stephane.traumat@gmail.com)](mailto:stephane.traumat@gmail.com)
-
+</div>
