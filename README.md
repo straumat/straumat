@@ -7,7 +7,7 @@
   - Director of [Aldan finance](https://aldan.finance/), a software company that helps your borrow money from banks thanks to your crypto assets.
   - [Agence 42](https://www.agence42.fr) associate.
   - [Thanks for leads](https://thanksforleads.com) associate.
-- :book: Lecturer on topics such as the industrialization of software development, cloud computing, the semantic web, and Bitcoin.
+- :book: Lecturer on topics such as the industrialization of software development, cloud computing, the semantic web, and [Bitcoin/blockchain](https://docs.google.com/presentation/d/1IMPUou3L1ZSLORKKn07sRLTEKqzPzxbaH_JVwBoHcuA/edit?usp=sharing).
 - :notebook_with_decorative_cover:I have also written a book on the J2EE application server JOnAS.
 
 #### :seedling: Working on
