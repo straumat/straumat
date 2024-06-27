@@ -16,7 +16,7 @@
 - [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot), a trading bot framework to create your Java crypto trading bot in minutes. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies. ![Cassandre Badge](https://img.shields.io/github/stars/cassandre-tech/cassandre-trading-bot?style=social)
 - [Royllo](https://github.com/royllo), my brand new project, learning [Taproot assets](https://docs.lightning.engineering/the-lightning-network/taproot-assets) and building a search engine / explorer for Taproot Assets living on the Bitcoin blockchain. ![Cassandre Badge](https://img.shields.io/github/stars/royllo/explorer?style=social)
 - [Blockchain2graph](https://github.com/straumat/blockchain2graph) extracts blockchain data (bitcoin) and insert them into a graph database. ![Blockchain2graph Badge](https://img.shields.io/github/stars/straumat/blockchain2graph?style=social)
-- [My second brain](https://straumat.github.io/second-cerveau/) where I try to organize in FRENCH all my notes, ideas and projects !
+- [My second brain](https://www.straumat.blog/) where I try to organize in FRENCH all my notes, ideas and projects !
 
 #### :hammer_and_wrench: Languages, tools and platforms
 <div>
