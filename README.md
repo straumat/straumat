@@ -4,10 +4,10 @@
 - :briefcase: Cofounder of [Oak Invest](https://www.oak-invest.com), an investment company where I have the following roles:
   - Director of [Scub](https://scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile and Blockchain.
   - Director of [SPS Solutions](https://sps-solutions.fr), a software company that provides a CRM solution for the insurance industry.
-  - Director of [Aldan finance](https://aldan.finance/), a software company that helps your borrow money from banks thanks to your crypto assets.
-  - [Agence 42](https://www.agence42.fr) associate.
   - [50 partners](https://www.50partners.fr) associate.
+  - [Agence 42](https://www.agence42.fr) associate.
   - [Thanks for leads](https://thanksforleads.com) associate.
+  - [Eldo](https://www.eldo.com/) associate.
 - :book: Lecturer on topics such as the industrialization of software development, cloud computing, the semantic web, and [Bitcoin/blockchain](https://docs.google.com/presentation/d/1IMPUou3L1ZSLORKKn07sRLTEKqzPzxbaH_JVwBoHcuA/edit?usp=sharing).
 - :notebook_with_decorative_cover:I have also written a book on the J2EE application server JOnAS.
 
