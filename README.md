@@ -5,9 +5,10 @@
   - Director of [Scub](https://scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile and Blockchain.
   - Director of [SPS Solutions](https://sps-solutions.fr), a software company that provides a CRM solution for the insurance industry.
   - [50 partners](https://www.50partners.fr) associate.
-  - [Agence 42](https://www.agence42.fr) associate.
+  - ~~[Agence 42](https://www.agence42.fr) associate~~ (sold).
   - [Thanks for leads](https://thanksforleads.com) associate.
   - [Eldo](https://www.eldo.com/) associate.
+  - [Isia](https://www.isia.tech/) associate.
 - :book: Lecturer on topics such as the industrialization of software development, cloud computing, the semantic web, and [Bitcoin/blockchain](https://docs.google.com/presentation/d/1IMPUou3L1ZSLORKKn07sRLTEKqzPzxbaH_JVwBoHcuA/edit?usp=sharing).
 - :notebook_with_decorative_cover:I have also written a book on the J2EE application server JOnAS.
 
