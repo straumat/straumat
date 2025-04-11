@@ -4,11 +4,11 @@
 - Director of [Scub](https://scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile and Blockchain.
 - Director of [SPS Solutions](https://sps-solutions.fr), a software company that provides a CRM solution for the insurance industry.
 - :briefcase: Cofounder of [Oak Invest](https://www.oak-invest.com), an investment company owning shares in:
-  - [50 partners](https://www.50partners.fr).
-  - ~~[Agence 42](https://www.agence42.fr) associate~~ (sold).
-  - [Thanks for leads](https://thanksforleads.com).
-  - [Eldo](https://www.eldo.com/).
-  - [Isia](https://www.isia.tech/).
+  - [50 partners](https://www.50partners.fr): A French startup accelerator and venture capital firm. It supports and invests in early-stage startups in ech, Impact, Health, and Web3.
+  - ~~[Agence 42](https://www.agence42.fr) associate:  creative digital communication agency based in Angoulême, specializing in strategy, branding, web development, and graphic design.~~ (sold).
+  - [Thanks for leads](https://thanksforleads.com): An app that helps business leaders boost revenue by structuring and optimizing their existing professional network—essentially word-of-mouth.
+  - [Eldo](https://www.eldo.com/): A platform that connects homeowners with trusted construction professionals by providing verified reviews, project photos, and personalized support.
+  - [Isia](https://www.isia.tech/): A secure, private AI solution enabling businesses to query and analyze their internal data and documents using advanced models.
 - :book: Lecturer on topics such as the industrialization of software development, cloud computing, the semantic web, and [Bitcoin/blockchain](https://docs.google.com/presentation/d/1IMPUou3L1ZSLORKKn07sRLTEKqzPzxbaH_JVwBoHcuA/edit?usp=sharing).
 - :notebook_with_decorative_cover:I have also written a book on the J2EE application server JOnAS.
 
