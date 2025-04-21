@@ -38,4 +38,4 @@
 </div>
 
 #### :email: Contact
-[github.backlog426@passmail.net](github.backlog426@passmail.net)
+[github.backlog426@passmail.net](mailto:github.backlog426@passmail.net)
