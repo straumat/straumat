@@ -1,8 +1,8 @@
 ### Hi, I'm Stéphane 👋
 
 #### :technologist:	Bio
-- Co-Founder & Director at [Scub](https://scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile and Blockchain.
-- Co-Founder & Director at [SPS Solutions](https://sps-solutions.fr), a software company providing a CRM solution for the insurance industry.
+- Co-Founder & Director at [Scub](https://www.scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile and Blockchain.
+- Co-Founder & Director at [SPS Solutions](https://www.sps-solutions.fr), a software company providing a CRM solution for the insurance industry.
 - Co-Founder & Director at [Oak Invest](https://www.oak-invest.com), an investment company owning shares in:
   - [50 partners](https://www.50partners.fr): A French startup accelerator and venture capital firm. It supports and invests in early-stage startups in Tech, Impact, Health, and Web3.
   - (sold) ~~[Agence 42](https://www.agence42.fr): A creative digital communication agency based in Angoulême, specializing in strategy, branding, web development, and graphic design.~~.
