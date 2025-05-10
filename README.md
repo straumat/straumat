@@ -9,7 +9,7 @@
   - [Eldo](https://www.eldo.com/): A platform that connects homeowners with trusted construction professionals by providing verified reviews, project photos, and personalized support.
   - [Isia](https://www.isia.tech/): A secure, private AI solution enabling businesses to query and analyze their internal data and documents using advanced models.
   - [ThanksForLeads](https://thanksforleads.com): An app that helps business leaders boost revenue by structuring and optimizing their existing professional network—essentially word-of-mouth.
-- :book: Lecturer on topics such as the industrialization of software development, cloud computing, the semantic web, and [Bitcoin/blockchain](https://docs.google.com/presentation/d/1IMPUou3L1ZSLORKKn07sRLTEKqzPzxbaH_JVwBoHcuA/edit?usp=sharing).
+- :book: Lecturer on topics such as the industrialization of software development, cloud computing, and Bitcoin/blockchain.
 - :notebook_with_decorative_cover:I have also written a book on the J2EE application server JOnAS.
 
 #### :seedling: Working on
