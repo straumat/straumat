@@ -14,7 +14,7 @@
 
 #### :seedling: Working on
 
-- [Mogami](https://mogami.tech/=), open-source Java tools that make x402 easy to use.
+- [Mogami](https://mogami.tech/), We are building a x402 stack - client sdk, server sdk, facilitator and examples to get you from zero to production in minutes.
 - [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot), a trading bot framework to create your Java crypto trading bot in minutes. Our Spring Boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
 - [Royllo](https://github.com/royllo), learning [Taproot assets](https://docs.lightning.engineering/the-lightning-network/taproot-assets) and building a search engine / explorer for Taproot Assets on the Bitcoin blockchain. 
 - [Blockchain2graph](https://github.com/straumat/blockchain2graph) extracts blockchain data (bitcoin) and inserts them into a graph database.
