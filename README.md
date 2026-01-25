@@ -5,7 +5,7 @@
 - Co-Founder & Director at [SPS Solutions](https://www.sps-solutions.fr), a software company providing a CRM solution for the insurance industry.
 - Co-Founder & Director at [Oak Invest](https://www.oak-invest.com), an investment company owning shares in:
   - [50 partners](https://www.50partners.fr): A French startup accelerator and venture capital firm. It supports and invests in early-stage startups in Tech, Impact, Health, and Web3.
-  - (sold) ~~[Agence 42](https://www.agence42.fr): A creative digital communication agency based in Angoulême, specializing in strategy, branding, web development, and graphic design.~~.
+  - ~~[Agence 42](https://www.agence42.fr): A creative digital communication agency based in Angoulême, specializing in strategy, branding, web development, and graphic design.~~ (sold).
   - [Eldo](https://www.eldo.com/): A platform that connects homeowners with trusted construction professionals by providing verified reviews, project photos, and personalized support.
   - [Isia](https://www.isia.tech/): A secure, private AI solution enabling businesses to query and analyze their internal data and documents using advanced models.
   - [ThanksForLeads](https://thanksforleads.com): An app that helps business leaders boost revenue by structuring and optimizing their existing professional network—essentially word-of-mouth.
