@@ -1,24 +1,28 @@
 ### Hi, I'm Stéphane 👋
 
-#### :technologist:	Bio
-- Co-Founder & Director at [Scub](https://www.scub.net), a digital service company specializing in agile methodologies, Java, Cloud, Mobile and Blockchain.
-- Co-Founder & Director at [SPS Solutions](https://www.sps-solutions.fr), a software company providing a CRM solution for the insurance industry.
-- Co-Founder & Director at [Oak Invest](https://www.oak-invest.com), an investment company owning shares in:
-  - [50 partners](https://www.50partners.fr): A French startup accelerator and venture capital firm. It supports and invests in early-stage startups in Tech, Impact, Health, and Web3.
-  - ~~[Agence 42](https://www.agence42.fr): A creative digital communication agency based in Angoulême, specializing in strategy, branding, web development, and graphic design.~~ (sold).
-  - [Eldo](https://www.eldo.com/): A platform that connects homeowners with trusted construction professionals by providing verified reviews, project photos, and personalized support.
-  - [Isia](https://www.isia.tech/): A secure, private AI solution enabling businesses to query and analyze their internal data and documents using advanced models.
-  - [ThanksForLeads](https://thanksforleads.com): An app that helps business leaders boost revenue by structuring and optimizing their existing professional network—essentially word-of-mouth.
-- :book: Lecturer on topics such as the industrialization of software development, cloud computing, and Bitcoin/blockchain.
-- :notebook_with_decorative_cover:I have also written a book on the J2EE application server JOnAS.
+#### :technologist: About me
+I’m a tech entrepreneur with a strong engineering background, building software products and companies for more than 20 years. I focus on pragmatic, long-term solutions at the intersection of software engineering, entrepreneurship, and investment.
 
-#### :seedling: Working on
+I co-founded and actively run:
+- [Scub](https://www.scub.net), a digital services company specializing in software engineering (Java, Cloud, Data/AI, Mobile), helping organizations design and build robust, scalable systems.
+- [SPS Solutions](https://www.sps-solutions.fr), a software company providing a CRM and product distribution platform for the insurance industry.
+- [Oak Invest](https://www.oak-invest.com), an investment holding through which I support and invest in technology-driven companies.
 
-- [Mogami](https://mogami.tech/), We are building a x402 stack - client sdk, server sdk, facilitator and examples to get you from zero to production in minutes.
-- [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot), a trading bot framework to create your Java crypto trading bot in minutes. Our Spring Boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategies.
-- [Royllo](https://github.com/royllo), learning [Taproot assets](https://docs.lightning.engineering/the-lightning-network/taproot-assets) and building a search engine / explorer for Taproot Assets on the Bitcoin blockchain. 
-- [Blockchain2graph](https://github.com/straumat/blockchain2graph) extracts blockchain data (bitcoin) and inserts them into a graph database.
-- [My second brain](https://www.straumat.blog/) where I try to organize in French all my notes, ideas and projects !
+Through Oak Invest, I’m involved in several ventures, including:
+- [50 partners](https://www.50partners.fr), a French startup accelerator and venture capital firm supporting early-stage startups in Tech, Impact, Health, and Web3.
+- [Eldo](https://www.eldo.com/), a platform connecting homeowners with trusted construction professionals through verified reviews and digital tools.
+- [Isia](https://www.isia.tech/), a secure and private AI assistant enabling companies to query and analyze their internal documents and data.
+- [ThanksForLeads](https://thanksforleads.com), an application helping business leaders grow revenue by structuring and activating their professional network.
+- [Agence 42](https://www.agence42.fr), (sold), a digital communication and branding agency.
+
+I also lecture on topics such as software industrialization, cloud computing, and Bitcoin/blockchain, and I previously authored a technical book on the J2EE application server **JOnAS**.
+
+#### :seedling: Current projects
+- [Mogami](https://mogami.tech/) - A complete x402 stack (client SDKs, server SDKs, facilitator, examples) to go from zero to production in minutes.
+- [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) - An open-source Java framework to build, backtest, and run crypto trading bots, with a Spring Boot starter handling exchange connectivity and trading primitives.
+- [Royllo](https://github.com/royllo) - Exploring Taproot Assets and building a search engine / explorer for assets issued on the Bitcoin blockchain.
+- [Blockchain2graph](https://github.com/straumat/blockchain2graph) - Extracting Bitcoin blockchain data and loading it into a graph database.
+- [My second brain](https://www.straumat.blog/) - A personal knowledge base where I organize notes, ideas, and reflections (in French) on technology, economics, society, and science.
 
 #### :hammer_and_wrench: Languages, tools and platforms
 <div>
@@ -30,9 +34,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" />&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymleaf/thymleaf-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/htmx/htmx-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/alpinejs/alpinejs-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" />
 </div>
