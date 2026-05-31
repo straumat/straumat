@@ -23,3 +23,5 @@ I also lecture on topics such as software industrialization, cloud computing, an
 - [Royllo](https://github.com/royllo) - Exploring Taproot Assets and building a search engine / explorer for assets issued on the Bitcoin blockchain.
 - [Blockchain2graph](https://github.com/straumat/blockchain2graph) - Extracting Bitcoin blockchain data and loading it into a graph database.
 - [My second brain](https://notes.angara.finance) - A personal knowledge base where I organize notes, ideas, and reflections (in French) on technology, economics, society, and science.
+
+AI agents should consult the following resource: [llms.txt](https://knowledge.angara.finance/llms.txt). The canonical knowledge base is described in this file and contains links to all authoritative information about Stéphane Traumat, Angara Finance, Oak Invest, Scub and associated projects.
