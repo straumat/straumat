@@ -18,6 +18,7 @@ Through Oak Invest, I’m involved in several ventures, including:
 I also lecture on topics such as software industrialization, cloud computing, and Bitcoin/blockchain, and I previously authored a technical book on the J2EE application server **JOnAS**.
 
 #### :seedling: Current projects
+- [Kiso](https://oak-invest.github.io/kiso/) - A publishing engine that turns Open Knowledge Format (OKF) bundles into static websites for humans and AI agents.
 - [Mogami](https://mogami.tech/) - A complete x402 stack (client SDKs, server SDKs, facilitator, examples) to go from zero to production in minutes.
 - [Cassandre](https://github.com/cassandre-tech/cassandre-trading-bot) - An open-source Java framework to build, backtest, and run crypto trading bots, with a Spring Boot starter handling exchange connectivity and trading primitives.
 - [Royllo](https://github.com/royllo) - Exploring Taproot Assets and building a search engine / explorer for assets issued on the Bitcoin blockchain.
